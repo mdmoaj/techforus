@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH: /home/techfor5/public_html/wp-content/themes/test
